@@ -1,0 +1,12 @@
+{
+  "ids": {
+    "Image": 1,
+    "Product": 2
+  },
+  "models": {
+    "Image": {},
+    "Product": {
+      "1": "{\"enabled\":true,\"name\":\"hello\",\"image\":{\"link\":\"url\",\"description\":\"hello\"},\"id\":\"1\"}"
+    }
+  }
+}
